@@ -27,7 +27,7 @@ Recommended libraries: `streamlit`
 
 ## A program operating on a script of a movie
 
-Description: A program operating on a script of a movie. For example, you can send your friend an entire script of shrek movie word by word.
+Description: A program operating on a script of a movie. For example, you can send your friend an entire script of the Shrek movie word by word.
 
 **Difficulty: 1/5**
 
@@ -38,7 +38,7 @@ Recommended libraries: ?
 
 ## Swarm simulation
 
-Description: Also called "flocking". Organic motion from 3 simple rules
+Description: Often called "boids" or "flocking". Organic motion from 3 simple rules.
 
 **Difficulty: 3/5**
 
