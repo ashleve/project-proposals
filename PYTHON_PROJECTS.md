@@ -5,6 +5,15 @@ The following projects are useful for getting familiar with python.
 For AI/ML projects it's recommended to have basic python experience.
 
 
+## Simple webscraper
+
+Description: A simple script for downloading some kind of data from a website. For example, you can make it download all images from all posts on a given subreddit.
+
+**Difficulty: 1/5**
+
+Recommended libraries: `beautifulsoup4`
+
+
 ## Simple streamlit dashboard
 
 Description: Streamlit is an extremely simple tool for building interactive data visualisation web apps. Very useful for interacting with AI models and building demos. You can use it to build anything you want, for example gitub profile activity dashboard or statistics dashboard for your twitter account. See the examples from official gallery: https://streamlit.io/gallery
@@ -14,6 +23,17 @@ Description: Streamlit is an extremely simple tool for building interactive data
 Recommended libraries: `streamlit`
 
 ![](.resources/streamlit.png)
+
+
+## A program operating on a script of a movie
+
+Description: A program operating on a script of a movie. For example, you can send your friend an entire script of shrek movie word by word.
+
+**Difficulty: 1/5**
+
+Recommended libraries: ?
+
+![](.resources/shrek.png)
 
 
 ## Swarm simulation
@@ -38,17 +58,6 @@ Description: A tool for fast image cropping.
 Recommended libraries: ?
 
 ![](.resources/img_cropping.gif)
-
-
-## Program operating on a script of a movie
-
-Description: A program operating on a script of a movie. For example, you can send your friend an entire script of shrek movie word by word.
-
-**Difficulty: 1/5**
-
-Recommended libraries: ?
-
-![](.resources/shrek.png)
 
 
 <br>
