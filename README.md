@@ -22,12 +22,20 @@ You can use it to build anything you want, for example gitub profile activity da
 
 See the examples from official gallery: https://streamlit.io/gallery
 
+![](.resources/streamlit.png)
+
 ### A tool for fast image cropping
 
 Difficulty: ?
 
 ![](.resources/img_cropping.gif)
 
+
+### A program that sends your friend an entire script of shrek movie word by word
+
+![](.resources/shrek.png)
+
+https://www.reddit.com/r/Python/comments/gaqe3d/made_an_annoying_python_script_that_sends_a/
 
 
 
