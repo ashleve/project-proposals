@@ -11,23 +11,20 @@ Description: Streamlit is an extremely simple tool for building interactive data
 
 **Difficulty: 2/5**
 
-Recommended libraries: ?
+Recommended libraries: `streamlit`
 
 ![](.resources/streamlit.png)
 
 
-## Swarm simulation - organic motion from 3 simple rules
+## Swarm simulation
 
-Description: Also called "flocking".
+Description: Also called "flocking". Organic motion from 3 simple rules
 
 **Difficulty: 3/5**
 
 Algorithm explanation: https://www.youtube.com/watch?v=bqtqltqcQhw
 
-Recommended libraries: OpenCV. See the **[example code](.resources/BOIDS_CODE.md)**.
-
-Resources:
-?
+Recommended libraries: `opencv-python` (see the **[example code](.resources/BOIDS_CODE.md)**)
 
 ![](.resources/boids.gif)
 
@@ -45,7 +42,7 @@ Recommended libraries: ?
 
 ## Program operating on a script of a movie
 
-Description: A program that sends your friend an entire script of shrek movie word by word.
+Description: A program operating on a script of a movie. For example, you can send your friend an entire script of shrek movie word by word.
 
 **Difficulty: 1/5**
 
@@ -54,7 +51,14 @@ Recommended libraries: ?
 ![](.resources/shrek.png)
 
 
-## Small project ideas
+<br>
+
+---
+
+<br>
+
+
+Other small project ideas:
 
 http://inventwithpython.com/bigbookpython/
 
